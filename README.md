@@ -36,3 +36,14 @@ From the root directory call to run the application:
 ``````
 ./bin/mars_rover.rb  
 ``````
+
+Type input in the format displayed above.
+
+
+## Testing
+Ensure you have all the dependencies installed by following the instructions above.
+
+In the root directory, run the below command to run all tests:
+``````
+rspec
+``````
