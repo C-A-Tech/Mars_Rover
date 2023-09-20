@@ -20,3 +20,19 @@ The output takes the form:
 (4, 4, E)
 (0, 4, W) LOST
 ````````
+
+## Running the script
+Install all dependencies 
+``````
+bundle install
+``````
+
+Make the script executable:
+``````
+chmod +x bin/mars_rover.rb   
+``````
+
+From the root directory call to run the application:
+``````
+./bin/mars_rover.rb  
+``````
